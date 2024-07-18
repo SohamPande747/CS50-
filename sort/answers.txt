@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?:It usually ends up taking most amount of time among the given 3 sorts
+
+sort2 uses: Merge Sort
+
+How do you know?:It takes almost same time for all the types of file whether they are sorted , reversed or random
+
+sort3 uses:Selection Sort
+
+How do you know?:It can be inferred from the time used by Sort1 to sort the sorted5000,sorted10000,sorted50000 files which is marginally lower than that for reversed or random sort
